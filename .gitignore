@@ -1,0 +1,10 @@
+moc_*
+*.o
+Makefile*
+*.pro.*
+.qmake.stash
+.vs
+.vscode
+workspace.code-workspace
+**/build
+*.a
